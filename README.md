@@ -1,4 +1,4 @@
-<br># 💫 About Me:</br>
+# 💫 About Me:
 👨‍💻 Student Developer passionate about Web Development<br>🌱 Currently learning Laravel, PHP, JavaScript & React<br>🚀 Building real-world projects to improve my skills<br>🤝 Open to collaboration and new opportunities<br>🎯 Focused on becoming a Full-Stack Developer<br>      🇮🇩 Indonesia
 
 
