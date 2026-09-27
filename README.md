@@ -66,15 +66,18 @@
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 
+<div align="center">
+
 ### 🛠️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,apache" />
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="50" height="50"/>
+  <img src="https://antigravity.google/assets/image/antigravity-logo.png" width="50" height="50"/>
+</p>
 
 </div>
-
----
-
-<div align="center">
 
 ## 📊 GitHub Statistics
 
