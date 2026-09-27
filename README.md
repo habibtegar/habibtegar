@@ -34,11 +34,11 @@
 
 ## 🌐 Connect With Me
 
-<a href="https://instagram.com/hbibtegar_">
+<a href="https://www.instagram.com/hbibtegar_/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="https://tiktok.com/@garrzyy_">
+<a href="https://www.tiktok.com/@garrzyy_" target="_blank">
 <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
 </a>
 
