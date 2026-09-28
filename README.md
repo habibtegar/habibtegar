@@ -47,7 +47,7 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
   <img src="https://antigravity.google/assets/image/antigravity-logo.png" width="50" height="50"/>
-  <img src="https://brandlogos.sgp1.digitaloceanspaces.com/png/simple-icons/laragon-400.png" width="50" height="50"/>
+  <img src="https://icons.iconarchive.com/icons/simpleicons-team/simple/128/laragon-icon.png" width="50" height="50"/>
   <img src="https://cdn.simpleicons.org/vercel/white" width="50" height="50"/>
 </p>
 </div>
