@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Habib Tegar Ramadhan
+# 👋 Hello, I'm Habib Tegar
 
 ### 💻 Student Developer · Web Developer · Tech Enthusiast
 
